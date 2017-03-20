@@ -1,0 +1,43 @@
+
+.jumbotron {
+  background: linear-gradient(grey, red, yellow);
+  margin-top: 0px;
+  margin-bottom: 5px;
+  padding-top: 0px;
+  padding-bottom: 5px;
+
+}
+
+
+#userInput {
+  margin-top: 10px;
+}
+
+#header {
+  font-size: 100px;
+}
+
+body {
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.gif {
+  border: #000 solid 7px;
+
+}
+
+.gifContainer {
+  margin: 10px;
+  display: inline-block;
+}
+.searchButtons {
+  margin: 7px 10px;
+  color: #fff;
+  background-color: #337ab7;
+}
+
+.searchButtons:hover {
+  background:red;
+  color: yellow;
+
+
